@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "type": "lib",
-  "main": "index.js",
+  "main": "lib/fit-container.js",
   "directories": {
     "lib": "lib"
   },
