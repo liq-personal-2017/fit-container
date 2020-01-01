@@ -1,0 +1,16 @@
+{
+  "name": "fit-container",
+  "version": "1.0.0",
+  "description": "",
+  "type": "lib",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

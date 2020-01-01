@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "typeRoots": ["node_modules/@types", "src/types"],
+        "sourceMap": true,
+        "allowJs": true,
+        "target": "ES5",
+        "declaration": true,
+        "outDir": "lib"
+        // "module": "system"
+    },
+    "include": ["src/**/*", "test/**/*"],
+    "exclude": ["node_modules", "**/*.spec.ts"]
+}
